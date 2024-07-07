@@ -58,12 +58,12 @@ Vascular lesion,
 
 
 ## Technologies Used
-- Python - version 3.11.5
-- numpy - version 1.24.3
-- pandas - version 2.0.3
-- matplotlib - version 3.7.2
-- seaborn - version 0.12.2
-- statsmodels - version 0.14.0
+- Python 
+- numpy 
+- pandas 
+- matplotlib 
+- tensorflow  
+- glob  
   
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
